@@ -15,6 +15,13 @@ I love working in the terminal, building labs, and learning how systems work und
 - OS: Linux (Kali, Ubuntu, Red Hat, etc.)
 - Languages: Python, Bash
 - Tools: Git, Burp Suite, Nmap, Metasploit Framework, VirtualBox.
+---
+![Python](https://img.shields.io/badge/Python-blue)
+![Linux](https://img.shields.io/badge/Linux-black)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![Bash](https://img.shields.io/badge/Bash-grey)
+
+---
 <!--
 **VIRAJGALFAT/VIRAJGALFAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
