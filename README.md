@@ -1,5 +1,5 @@
 
-# Hi There, I'm Viraj Galfat....
+# I'm Viraj Galfat....
 
 I'm passionate about **Linux, cybersecurity, and system automation**.  
 I love working in the terminal, building labs, and learning how systems work under the hood.
